@@ -15,9 +15,6 @@ body,main,footer,html{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 30px;
 }
-.btn btn-primary{
-    text-decoration: none;
-}
 .mapa{
     text-align: center;
 }
