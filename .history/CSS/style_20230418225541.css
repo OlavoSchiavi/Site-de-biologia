@@ -1,0 +1,77 @@
+header{
+    padding: 20px;
+    height: 120px;
+    background-color:springgreen;
+}
+.arara{
+    width: 20%;
+    float: right;
+}
+#logo{
+    width: 50px;
+}
+
+body,main,footer,html{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+.button{
+    color:white;
+    text-decoration: none;
+}
+.mapa{
+    text-align: center;
+}
+h1,h4{
+    text-align: center;
+}
+h6{
+    font-style:oblique;
+}
+.checkbox {
+    display: none;
+}
+.btn-toggle {
+    margin-bottom: 0;
+    cursor: pointer;
+    border-radius: 3px;
+}
+.btn-toggle-primary {
+    color: #fff;
+    background-color: #4caf50;
+    border-color: #4caf50;
+}
+.btn-toggle-primary:hover {
+    color: #fff;
+    background-color: #4caf50;
+    border-color: #4caf50;
+}
+.btn-toggle-primary:focus {
+    color: #fff;
+    background-color: #4caf50;
+    border-color: #4caf50;
+    box-shadow: none;
+}
+.btn-toggle-primary.active {
+    color: #fff;
+    background-color: #2196f3;
+    border-color: #2196f3;
+
+}
+.btn-toggle-primary.active:hover {
+    color: #fff;
+    background-color: #2196f3;
+    border-color: #2196f3;
+}
+.checkbox:checked ~ .texto {
+    display: block;
+}
+.texto {
+    display: none;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #f2f2f2;
+}
+.perfil {
+    width: 20px;
+}
