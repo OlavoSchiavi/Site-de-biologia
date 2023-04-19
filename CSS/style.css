@@ -30,38 +30,6 @@ h6{
 .checkbox {
     display: none;
 }
-.btn-toggle {
-    margin-bottom: 0;
-    cursor: pointer;
-    border-radius: 3px;
-}
-.btn-toggle-primary {
-    color: #fff;
-    background-color: #4caf50;
-    border-color: #4caf50;
-}
-.btn-toggle-primary:hover {
-    color: #fff;
-    background-color: #4caf50;
-    border-color: #4caf50;
-}
-.btn-toggle-primary:focus {
-    color: #fff;
-    background-color: #4caf50;
-    border-color: #4caf50;
-    box-shadow: none;
-}
-.btn-toggle-primary.active {
-    color: #fff;
-    background-color: #2196f3;
-    border-color: #2196f3;
-
-}
-.btn-toggle-primary.active:hover {
-    color: #fff;
-    background-color: #2196f3;
-    border-color: #2196f3;
-}
 .checkbox:checked ~ .texto {
     display: block;
 }
