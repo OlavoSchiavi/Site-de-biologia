@@ -38,5 +38,22 @@ h6{
 }
 .perfil {
     width: 20%;
-    border-radius: 100px;
+    border-radius: 300px;
 }
+.buttonp{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+  .image-container {
+    justify-content: center;
+    width: 20%;
+    border-radius: 300px;
+    margin-right: 10px;
+  }
+  .perfil{
+    display: inline-block;
+    
+  }
