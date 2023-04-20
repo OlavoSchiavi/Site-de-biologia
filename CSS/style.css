@@ -44,19 +44,16 @@ h6{
     text-decoration: none;
     color: white;
 }
-
-
-
-  .image-container {
+.image-container {
     justify-content: center;
     width: 20%;
     border-radius: 300px;
     margin-right: 10px;
-  }
-  .perfil{
+}
+.perfil{
     display: inline-block;
     text-align: center;
-  }
-  .correta{
+}
+.correta{
     color: green;
-  }
+}
