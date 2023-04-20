@@ -55,7 +55,7 @@ h6{
   }
   .perfil{
     display: inline-block;
-    
+    text-align: center;
   }
   .correta{
     color: green;
